@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "46052283570",
+    "firebase_url": "https://gusto-gourmet-79829.firebaseio.com",
+    "project_id": "gusto-gourmet-79829",
+    "storage_bucket": "gusto-gourmet-79829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46052283570:android:d3057cd5eeb4ffd0b7a5ab",
+        "android_client_info": {
+          "package_name": "com.gustogourmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46052283570-d051407o1d8afs2lln4tgfl4f57e8t0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvxEyypCitcH8xowEY9AFLXG6WS0Prrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46052283570-d051407o1d8afs2lln4tgfl4f57e8t0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
